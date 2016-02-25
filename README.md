@@ -4,17 +4,17 @@ I haven't created a R package per se for the R functions necessary to generate t
 
 Before you start, you need to install those R packages :
 
-1) e1071
-2) gplots
-3) ROCR
-4) multicore
+1) e1071  
+2) gplots  
+3) ROCR  
+4) multicore  
 
 that are necessary to run the scripts.
 
 You would also need the Rgtsp package from Vlad Popovici :
 
 1) Use the Rgtsp_0.0-5.tar.gz file included in the zip folder
-2) launch in the terminam : R CMD INSTALL Rgtsp_0.0-5.tar.gz
+2) launch in the terminal : R CMD INSTALL Rgtsp_0.0-5.tar.gz
 
 There is a lot of stuff and function that ate not necessary for you in the folder.
 
